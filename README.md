@@ -1,4 +1,4 @@
-# iOS-camera-content-overlay
+# iOS Camera Content Overlay
 A simple application using the cordova camera plugin and overlaying buttons.
 
 ## API Reference
